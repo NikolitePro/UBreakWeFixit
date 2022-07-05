@@ -1,0 +1,46 @@
+body {
+    background: #779e1d;
+    margin: 0 auto;
+}
+
+header {
+    background: #7261d4;
+    margin: 0 auto;
+}
+
+.logo {
+    float: left;
+    width: 75px;
+    margin-left: 10px;
+}
+
+header::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+nav {
+    float: right;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    justify-content: center;
+    margin-left: 70px;
+    padding-top: 20px;
+}
+
+nav li p {
+    margin: 0 auto;
+}
+
+nav li a {
+    padding: 0;
+}
