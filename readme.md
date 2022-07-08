@@ -15,7 +15,7 @@ Use like a normal webpage.
 Checklist below outlines the roadmap of this project. Project schedule is not reflected.
 - [x] Demo release
 - [ ] Implementation of client comments
-- [ ] Mobile support
+- [x] Mobile support
 ## Contributing
 Contribution is not available at this time.
 ## License
