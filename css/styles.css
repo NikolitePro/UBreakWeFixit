@@ -95,3 +95,15 @@ footer p {
     padding: 10px 0px;
     margin: 0px;
 }
+
+@media all and (max-width: 600px) {
+    .grid-container {
+        grid-template-columns: auto;
+    }
+}
+
+@media all and (max-width: 400px) {
+    .logo {
+        display: none;
+    }
+}
